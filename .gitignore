@@ -1,0 +1,10 @@
+.metadata/
+private/
+bin/
+target/
+*.jar
+*.class
+Servers/
+node_modules/
+.vscode/
+Debug/

@@ -1,0 +1,15 @@
+Theoritical concepts links
+=========================
+
+https://www.geeksforgeeks.org/most-important-type-of-algorithms/
+
+https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
+
+https://www.geeksforgeeks.org/greedy-algorithms/
+
+https://www.geeksforgeeks.org/dynamic-programming/
+
+https://www.geeksforgeeks.org/backtracking-algorithms/
+
+https://www.geeksforgeeks.org/branch-and-bound-algorithm/
+
